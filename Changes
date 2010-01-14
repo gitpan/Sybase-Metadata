@@ -1,6 +1,6 @@
 Revision history for Perl extension Sybase::Metadata.
 
-0.01  Tue Jan 12 22:15:42 2010
+0.01  Thu Jan 14 22:05:56 2010
 	- original version; created by h2xs 1.23 with options
 		-X -n Sybase::Metadata
 

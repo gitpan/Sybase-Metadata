@@ -1532,7 +1532,6 @@ Sybase::Metadata
 Sybase::Metadata provides methods to extract and search through Sybase metadata,
 retrieving it for use in either general code or DB Browser applications.
 
-Blah blah blah.
 
 =head2 EXPORT
 
